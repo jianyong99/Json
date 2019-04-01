@@ -1,10 +1,5 @@
 {
-  "Monday": [
-    {
-      "id": "Miles Morales",
-      "picture": "",
-      "First Seen": "8:59AM"
-    },
+  "onedayLesson": [
     {
       "id": "Peter Parker",
       "picture": "",
@@ -13,10 +8,16 @@
   ],
   "Attendance": [
     {
-      "id": "Miles Morales",
+      "id": "Peter Parker",
       "date": "1/4/2019",
-      "time-in": "8AM",
-      "time-out": "10AM"
+      "day": "Monday",
+      "time": "8AM",
+      "week': "1",
+      "modulecode": "EG1101",
+      "name": "Miles Morales",
+      "FirstSeen": "8:00AM",
+      "AbscenceDuration": "-",
+      "Abscence":false
     },
     {
       "id": 2,
