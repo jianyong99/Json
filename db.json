@@ -3,7 +3,8 @@
     {
       "id": "Peter Parker",
       "picture": "",
-      "First Seen": "9:01"
+      "First Seen": "9:01",
+      "week': "1"
     }
   ],
   "Attendance": [
@@ -11,8 +12,8 @@
       "id": "Peter Parker",
       "date": "1/4/2019",
       "day": "Monday",
-      "time": "8AM",
-      "week': "1",
+      "time": "8am",
+      "week": "1",
       "modulecode": "EG1101",
       "name": "Miles Morales",
       "FirstSeen": "8:00AM",
