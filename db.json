@@ -1,23 +1,22 @@
 {
   "Monday": [
     {
-      "id": 1,
-      "name": "Miles Morales"
-      "picture": ""
-      "First Seen": "8:59"
+      "id": "Miles Morales",
+      "picture": "",
+      "First Seen": "8:59AM"
     },
     {
-      "id": 2,
-      "name": "Peter Parker"
-      "picture": ""
+      "id": "Peter Parker",
+      "picture": "",
       "First Seen": "9:01"
     }
   ],
-  "comments": [
+  "Attendance": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "Miles Morales",
+      "date": "1/4/2019",
+      "time-in": "8AM",
+      "time-out": "10AM"
     },
     {
       "id": 2,
