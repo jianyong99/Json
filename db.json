@@ -99,4 +99,169 @@
   ],
   "attendance": [
     {
-      
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "2",
+      "day": "1",
+      "time": "8am",
+      "moduleCode": "EG1101",
+      "name": "Miles Morales",
+      "gender": "male",
+      "url": "photo1",
+      "FirstSeenTime": "7.30am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "2",
+      "day": "1",
+      "time": "8am",
+      "moduleCode": "EG1101",
+      "name": "Kim Tan",
+      "gender": "male",
+      "url": "photo2",
+      "FirstSeenTime": "8.00am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+     {
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "2",
+      "day": "1",
+      "time": "10am",
+      "moduleCode": "EG1101",
+      "name": "Shin So Young",
+      "gender": "female",
+      "url": "photo3",
+      "FirstSeenTime": "9.50am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+     {
+      "id": "PETER PARKER",
+      "wday": "tuesday",
+      "week": "2",
+      "day": "2",
+      "time": "9am",
+      "moduleCode": "EG1111",
+      "name": "Yoo Jae Suk",
+      "gender": "male",
+      "url": "photo4",
+      "FirstSeenTime": "8.59am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "tuesday",
+      "week": "2",
+      "day": "2",
+      "time": "9am",
+      "moduleCode": "EG1111",
+      "name": "Eddie Brock",
+      "gender": "male",
+      "url": "photo5",
+      "FirstSeenTime": "9.00am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "wednesday",
+      "week": "2",
+      "day": "3",
+      "time": "11am",
+      "moduleCode": "EG1123",
+      "name": "Harry Osborn",
+      "gender": "male",
+      "url": "photo6",
+      "FirstSeenTime": "10.59am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "wednesday",
+      "week": "2",
+      "day": "3",
+      "time": "11am",
+      "moduleCode": "EG1123",
+      "name": "Norman",
+      "gender": "male",
+      "url": "photo7",
+      "FirstSeenTime": "11.00am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "thursday",
+      "week": "2",
+      "day": "4",
+      "time": "9am",
+      "moduleCode": "EG1220",
+      "name": "Kang Gon",
+      "gender": "male",
+      "url": "photo8",
+      "FirstSeenTime": "8.30am",
+      "AbsentDuration": "-",
+      "Absence": false
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "thursday",
+      "week": "2",
+      "day": "4",
+      "time": "9am",
+      "moduleCode": "EG1220",
+      "name": "Jo Se Hwang",
+      "gender": "male",
+      "url": "photo9",
+      "FirstSeenTime": "9.45am",
+      "AbsentDuration": "45min",
+      "Absence": true
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "friday",
+      "week": "2",
+      "day": "5",
+      "time": "9am",
+      "moduleCode": "EG1001",
+      "name": "Kim Jong Kook",
+      "gender": "male",
+      "url": "photo10",
+      "FirstSeenTime": "10.00am",
+      "AbsentDuration": "1hour",
+      "Absence": true
+    },
+  ],
+  "photo": [
+    {
+      "id": "PETER PARKER",
+      "name": "Miles Morales",
+      "url": "photo1"
+      "photo": "https://i.postimg.cc/SsVxx5nD/13-miles-morales-lede-w700-h700.jpg"
+    },
+    {
+      "id": "PETER PARKER",
+      "name": "Kim Tan",
+      "url": "photo2"
+      "photo": "https://i.postimg.cc/Hk4xNVTq/bf5b64fed9975c099c5cbe81f61d845a.jpg"
+    },
+    {
+      "id": "PETER PARKER",
+      "name": "Shin So Young",
+      "url": "photo3",
+      "photo": "https://i.postimg.cc/7Yr2hCYR/Item-KD-Jin-Se-Yun.jpg"
+    },
+    {
+      "id": "PETER PARKER",
+      "name": "Yoo Jae Suk",
+      "url": "photo4",
+      "photo": "https://i.postimg.cc/Prd1Kpsw/download-1.jpg"
+    },
+    
