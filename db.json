@@ -1,27 +1,102 @@
 {
-  "onedayLesson": [
+  "onedaylesson": [
     {
-      "id": "Peter Parker",
-      "picture": "",
-      "First Seen": "9:01",
-      "week': "1"
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "1",
+      "day": "1",
+      "time": "8am",
+      "moduleCode": "EG1101"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "1",
+      "day": "1",
+      "time": "10am",
+      "moduleCode": "EG1102"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "2",
+      "day": "1",
+      "time": "8am",
+      "moduleCode": "EG1101"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "monday",
+      "week": "2",
+      "day": "1",
+      "time": "10am",
+      "moduleCode": "EG1102"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "tuesday",
+      "week": "2",
+      "day": "2",
+      "time": "9am",
+      "moduleCode": "EG1111"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "tuesday",
+      "week": "2",
+      "day": "2",
+      "time": "12pm",
+      "moduleCode": "EG1112"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "wednesday",
+      "week": "2",
+      "day": "3",
+      "time": "9am",
+      "moduleCode": "EG1122"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "wednesday",
+      "week": "2",
+      "day": "3",
+      "time": "11am",
+      "moduleCode": "EG1123"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "thursday",
+      "week": "2",
+      "day": "4",
+      "time": "9am",
+      "moduleCode": "EG1220"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "thursday",
+      "week": "2",
+      "day": "4",
+      "time": "10am",
+      "moduleCode": "EG1221"
+    },
+    {
+      "id": "PETER PARKER",
+      "wday": "friday",
+      "week": "2",
+      "day": "5",
+      "time": "9am",
+      "moduleCode": "EG1001"
+    },
+     {
+      "id": "PETER PARKER",
+      "wday": "friday",
+      "week": "2",
+      "day": "5",
+      "time": "3pm",
+      "moduleCode": "EG1002"
     }
   ],
   "attendance": [
     {
-      "id": "Peter Parker",
-      "date": "1/4/2019",
-      "day": "Monday",
-      "time": "8am",
-      "week": "1",
-      "modulecode": "EG1101",
-      "name": "Miles Morales",
-      "FirstSeen": "8:00AM",
-      "AbscenceDuration": "-",
-      "Abscence":false
-    },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+      
