@@ -237,19 +237,19 @@
       "FirstSeenTime": "10.00am",
       "AbsentDuration": "1hour",
       "Absence": true
-    },
+    }
   ],
   "photo": [
     {
       "id": "PETER PARKER",
       "name": "Miles Morales",
-      "url": "photo1"
+      "url": "photo1",
       "photo": "https://i.postimg.cc/SsVxx5nD/13-miles-morales-lede-w700-h700.jpg"
     },
     {
       "id": "PETER PARKER",
       "name": "Kim Tan",
-      "url": "photo2"
+      "url": "photo2",
       "photo": "https://i.postimg.cc/Hk4xNVTq/bf5b64fed9975c099c5cbe81f61d845a.jpg"
     },
     {
@@ -263,5 +263,6 @@
       "name": "Yoo Jae Suk",
       "url": "photo4",
       "photo": "https://i.postimg.cc/Prd1Kpsw/download-1.jpg"
-    },
+    }
+  ],
     
