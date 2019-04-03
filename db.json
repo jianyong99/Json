@@ -1,269 +1,505 @@
 {
   "onedaylesson": [
     {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "1",
-      "day": "1",
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"1",
+      "day":"1",
       "time": "8am",
-      "moduleCode": "EG1101"
+      "moduleCode": "EG2012-E1-1"
     },
     {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "1",
-      "day": "1",
-      "time": "10am",
-      "moduleCode": "EG1102"
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "2",
-      "day": "1",
-      "time": "8am",
-      "moduleCode": "EG1101"
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "2",
-      "day": "1",
-      "time": "10am",
-      "moduleCode": "EG1102"
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "tuesday",
-      "week": "2",
-      "day": "2",
-      "time": "9am",
-      "moduleCode": "EG1111"
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "tuesday",
-      "week": "2",
-      "day": "2",
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"1",
+      "day":"1",
       "time": "12pm",
-      "moduleCode": "EG1112"
+      "moduleCode": "EG2013-E2-1"
     },
     {
-      "id": "PETER PARKER",
-      "wday": "wednesday",
-      "week": "2",
-      "day": "3",
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"2",
+      "day":"1",
+      "time": "8am",
+      "moduleCode": "EG2012-E1"
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"2",
+      "day":"1",
+      "time": "12pm",
+      "moduleCode": "EG2013-E2"
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"tuesday",
+      "week":"2",
+      "day":"2",
       "time": "9am",
-      "moduleCode": "EG1122"
+      "moduleCode": "EG3001-Z1"
     },
     {
-      "id": "PETER PARKER",
-      "wday": "wednesday",
-      "week": "2",
-      "day": "3",
-      "time": "11am",
-      "moduleCode": "EG1123"
+      "id": "LIAWSW",
+      "wday":"tuesday",
+      "week":"2",
+      "day":"2",
+      "time": "1pm",
+      "moduleCode": "EG3210-Z3"
     },
     {
-      "id": "PETER PARKER",
-      "wday": "thursday",
-      "week": "2",
-      "day": "4",
-      "time": "9am",
-      "moduleCode": "EG1220"
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "thursday",
-      "week": "2",
-      "day": "4",
+      "id": "LIAWSW",
+      "wday":"wednesday",
+      "week":"2",
+      "day":"3",
       "time": "10am",
-      "moduleCode": "EG1221"
+      "moduleCode": "EG2012-G2"
     },
     {
-      "id": "PETER PARKER",
-      "wday": "friday",
-      "week": "2",
-      "day": "5",
-      "time": "9am",
-      "moduleCode": "EG1001"
+      "id": "LIAWSW",
+      "wday":"wednesday",
+      "week":"2",
+      "day":"3",
+      "time": "12pm",
+      "moduleCode": "EG2013-G1"
     },
-     {
-      "id": "PETER PARKER",
-      "wday": "friday",
-      "week": "2",
-      "day": "5",
+    {
+      "id": "LIAWSW",
+      "wday":"thursday",
+      "week":"2",
+      "day":"4",
+      "time": "9am",
+      "moduleCode": "EG3001-A2"
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"thursday",
+      "week":"2",
+      "day":"4",
+      "time": "1pm",
+      "moduleCode": "EG3210-A3"
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"friday",
+      "week":"2",
+      "day":"5",
       "time": "3pm",
-      "moduleCode": "EG1002"
+      "moduleCode": "EG3001-C1"
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"friday",
+      "week":"2",
+      "day":"5",
+      "time": "5pm",
+      "moduleCode": "EG3210-C3"
     }
   ],
   "attendance": [
     {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "2",
-      "day": "1",
+      "id": "LIAWSW",
       "time": "8am",
-      "moduleCode": "EG1101",
-      "name": "Miles Morales",
-      "gender": "male",
-      "url": "photo1",
-      "FirstSeenTime": "7.30am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "wday":"monday",
+      "week":"2",
+      "day":"1",
+      "moduleCode": "EG2012-E1",
+      "name":"Lee XX",
+      "gender":"male",
+      "uri":"photo1",
+      "FirstSeenTime":"7.50am",
+      "AbsentDuration":"-",
+      "Absence":false
     },
     {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "2",
-      "day": "1",
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"2",
+      "day":"1",
       "time": "8am",
-      "moduleCode": "EG1101",
-      "name": "Kim Tan",
-      "gender": "male",
-      "url": "photo2",
-      "FirstSeenTime": "8.00am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "moduleCode": "EG2012-E1",
+      "name":"Tan XX",
+      "gender":"female",
+      "uri":"photo2",
+      "FirstSeenTime":"8.00am",
+      "AbsentDuration":"-",
+      "Absence":false
     },
-     {
-      "id": "PETER PARKER",
-      "wday": "monday",
-      "week": "2",
-      "day": "1",
+    {
+      "id": "LIAWSW",
+      "wday":"monday",
+      "week":"2",
+      "day":"1",
+      "time": "12pm",
+      "moduleCode": "EG2013-E2",
+      "name":"Wong XX",
+      "gender":"male",
+      "uri":"photo3",
+      "FirstSeenTime":"11.50am",
+      "AbsentDuration":"-",
+      "Absence":false
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"tuesday",
+      "week":"2",
+      "day":"2",
+      "time": "9am",
+      "moduleCode": "EG3001-Z1",
+      "name":"Lee XX",
+      "gender":"female",
+      "uri":"photo4",
+      "FirstSeenTime":"8.50am",
+      "AbsentDuration":"-",
+      "Absence":false
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"tuesday",
+      "week":"2",
+      "day":"2",
+      "time": "1pm",
+      "moduleCode": "EG3210-Z3",
+      "name":"Kong XX",
+      "gender":"male",
+      "uri":"photo5",
+      "FirstSeenTime":"1pm",
+      "AbsentDuration":"-",
+      "Absence":false
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"wednesday",
+      "week":"2",
+      "day":"3",
       "time": "10am",
-      "moduleCode": "EG1101",
-      "name": "Shin So Young",
-      "gender": "female",
-      "url": "photo3",
-      "FirstSeenTime": "9.50am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "moduleCode": "EG2012-G2",
+      "name":"Chen XX",
+      "gender":"female",
+      "uri":"photo6",
+      "FirstSeenTime":"9.55am",
+      "AbsentDuration":"-",
+      "Absence":false
     },
-     {
-      "id": "PETER PARKER",
-      "wday": "tuesday",
-      "week": "2",
-      "day": "2",
+    {
+      "id": "LIAWSW",
+      "wday":"wednesday",
+      "week":"2",
+      "day":"3",
+      "time": "12pm",
+      "moduleCode": "EG2013-G1",
+      "name":"Chen XX",
+      "gender":"male",
+      "uri":"photo7",
+      "FirstSeenTime":"11.59am",
+      "AbsentDuration":"-",
+      "Absence":false
+    },
+    {
+      "id": "LIAWSW",
+      "wday":"thursday",
+      "week":"2",
+      "day":"4",
       "time": "9am",
-      "moduleCode": "EG1111",
-      "name": "Yoo Jae Suk",
-      "gender": "male",
-      "url": "photo4",
-      "FirstSeenTime": "8.59am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "moduleCode": "EG3001-A2",
+      "name":"Tee XX",
+      "gender":"female",
+      "uri":"photo8",
+      "FirstSeenTime":"8.45am",
+      "AbsentDuration":"-",
+      "Absence":false
     },
     {
-      "id": "PETER PARKER",
-      "wday": "tuesday",
-      "week": "2",
-      "day": "2",
-      "time": "9am",
-      "moduleCode": "EG1111",
-      "name": "Eddie Brock",
-      "gender": "male",
-      "url": "photo5",
-      "FirstSeenTime": "9.00am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "id": "LIAWSW",
+      "wday":"thursday",
+      "week":"2",
+      "day":"4",
+      "time": "1pm",
+      "moduleCode": "EG3210-A3",
+      "name":"Loh XX",
+      "gender":"male",
+      "uri":"photo9",
+      "FirstSeenTime":"1.30pm",
+      "AbsentDuration":"30min",
+      "Absence":true
     },
     {
-      "id": "PETER PARKER",
-      "wday": "wednesday",
-      "week": "2",
-      "day": "3",
-      "time": "11am",
-      "moduleCode": "EG1123",
-      "name": "Harry Osborn",
-      "gender": "male",
-      "url": "photo6",
-      "FirstSeenTime": "10.59am",
-      "AbsentDuration": "-",
-      "Absence": false
+      "id": "LIAWSW",
+      "wday":"friday",
+      "week":"2",
+      "day":"5",
+      "time": "3pm",
+      "moduleCode": "EG3001-C1",
+      "name":"Li XX",
+      "gender":"female",
+      "uri":"photo10",
+      "FirstSeenTime":"-",
+      "AbsentDuration":"2hour",
+      "Absence":true
     },
     {
-      "id": "PETER PARKER",
-      "wday": "wednesday",
-      "week": "2",
-      "day": "3",
-      "time": "11am",
-      "moduleCode": "EG1123",
-      "name": "Norman",
-      "gender": "male",
-      "url": "photo7",
-      "FirstSeenTime": "11.00am",
-      "AbsentDuration": "-",
-      "Absence": false
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "thursday",
-      "week": "2",
-      "day": "4",
-      "time": "9am",
-      "moduleCode": "EG1220",
-      "name": "Kang Gon",
-      "gender": "male",
-      "url": "photo8",
-      "FirstSeenTime": "8.30am",
-      "AbsentDuration": "-",
-      "Absence": false
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "thursday",
-      "week": "2",
-      "day": "4",
-      "time": "9am",
-      "moduleCode": "EG1220",
-      "name": "Jo Se Hwang",
-      "gender": "male",
-      "url": "photo9",
-      "FirstSeenTime": "9.45am",
-      "AbsentDuration": "45min",
-      "Absence": true
-    },
-    {
-      "id": "PETER PARKER",
-      "wday": "friday",
-      "week": "2",
-      "day": "5",
-      "time": "9am",
-      "moduleCode": "EG1001",
-      "name": "Kim Jong Kook",
-      "gender": "male",
-      "url": "photo10",
-      "FirstSeenTime": "10.00am",
-      "AbsentDuration": "1hour",
-      "Absence": true
+      "id": "LIAWSW",
+      "wday":"friday",
+      "week":"2",
+      "day":"5",
+      "time": "5pm",
+      "moduleCode": "EG3210-C3",
+      "name":"Song XX",
+      "gender":"male",
+      "uri":"photo11",
+      "FirstSeenTime":"5.20pm",
+      "AbsentDuration":"20min",
+      "Absence":true
     }
   ],
   "photo": [
     {
-      "id": "PETER PARKER",
-      "name": "Miles Morales",
-      "url": "photo1",
-      "photo": "https://i.postimg.cc/SsVxx5nD/13-miles-morales-lede-w700-h700.jpg"
+      "id": "LIAWSW",
+      "name":"Lee XX",
+      "uri":"photo1",
+      "photo":"https://picsum.photos/150/150/?image=381"
     },
     {
-      "id": "PETER PARKER",
-      "name": "Kim Tan",
-      "url": "photo2",
-      "photo": "https://i.postimg.cc/Hk4xNVTq/bf5b64fed9975c099c5cbe81f61d845a.jpg"
+      "id": "LIAWSW",
+      "name":"Tan XX",
+      "uri":"photo2",
+      "photo":"https://picsum.photos/150/150/?image=382"
     },
     {
-      "id": "PETER PARKER",
-      "name": "Shin So Young",
-      "url": "photo3",
-      "photo": "https://i.postimg.cc/7Yr2hCYR/Item-KD-Jin-Se-Yun.jpg"
+      "id": "LIAWSW",
+      "name":"Wong XX",
+      "uri":"photo3",
+      "photo":"https://picsum.photos/150/150/?image=383"
     },
     {
-      "id": "PETER PARKER",
-      "name": "Yoo Jae Suk",
-      "url": "photo4",
-      "photo": "https://i.postimg.cc/Prd1Kpsw/download-1.jpg"
+      "id": "LIAWSW",
+      "name":"Lee XX",
+      "uri":"photo4",
+      "photo":"https://picsum.photos/150/150/?image=384"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Kong XX",
+      "uri":"photo5",
+      "photo":"https://picsum.photos/150/150/?image=385"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Chen XX",
+      "uri":"photo6",
+      "photo":"https://picsum.photos/150/150/?image=386"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Chen XX",
+      "uri":"photo7",
+      "photo":"https://picsum.photos/150/150/?image=387"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Tee XX",
+      "uri":"photo8",
+      "photo":"https://picsum.photos/150/150/?image=388"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Loh XX",
+      "uri":"photo9",
+      "photo":"https://picsum.photos/150/150/?image=389"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Li XX",
+      "uri":"photo10",
+      "photo":"https://picsum.photos/150/150/?image=390"
+    },
+    {
+      "id": "LIAWSW",
+      "name":"Song XX",
+      "uri":"photo11",
+      "photo":"https://picsum.photos/150/150/?image=391"
     }
   ],
-}
-    
+  "calendar": [   
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-25",
+      "day":"monday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-26",
+      "day":"tuesday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-27",
+      "day":"wednesday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-28",
+      "day":"thursday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-29",
+      "day":"friday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-30",
+      "day":"saturday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-31",
+      "day":"sunday",
+      "week": "1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-1",
+      "day":"monday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-2",
+      "day":"tuesday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-3",
+      "day":"wednesday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-4",
+      "day":"thursday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-5",
+      "day":"friday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-6",
+      "day":"saturday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-7",
+      "day":"sunday",
+      "week": "2"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-8",
+      "day":"monday",
+      "week": "3"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-9",
+      "day":"tuesday",
+      "week": "3"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-10",
+      "day":"wednesday",
+      "week": "3"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-11",
+      "day":"thursday",
+      "week": "3"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-4-12",
+      "day":"friday",
+      "week": "3"
+    }
+   ],
+  "welcome": [   
+    {
+      "name": "Liaw Sze Wong",
+      "time": "1pm",
+      "late": false,
+      "gender":"male",
+      "IsClass": false
+    },
+    {
+      "name": "Low Jia Xin",
+      "time": "2pm",
+      "late": true,
+      "gender":"female",
+      "IsClass": true
+    },
+    {
+      "name": "Sophia Wei",
+      "time": "1.10pm",
+      "late":false,
+      "gender":"female",
+      "IsClass": true
+    }
+    ]
+},
+"LEE XX": [
+  {
+    "date": "19-02-19",
+    "time": "9.00am-10.00am",
+    "moduleCode": "EG1101",
+    "moduleName": "Introduction to Engineering"
+    "group": "1,2",
+    "type": "L",
+    "location": "S.212",
+    "manual confirmation": "Yes"
+  },
+  {
+    "date": "19-02-19",
+    "time": "1.00pm-2.00pm",
+    "moduleCode": "EG1101",
+    "moduleName": "Introduction to Engineering"
+    "group": "1,2",
+    "type": "T",
+    "location": "S.212",
+    "manual confirmation": "No"
+  },
+  {
+    "date": "20-02-19",
+    "time": "10.00am-12.00am",
+    "moduleCode": "EG1102",
+    "moduleName": "Introduction to Algebra"
+    "group": "All",
+    "type": "L",
+    "location": "LTS.1",
+    "manual confirmation": "Yes"
+  },
+   {
+    "date": "20-02-19",
+    "time": "3.00pm-5.00pm",
+    "moduleCode": "EG1102",
+    "moduleName": "Introduction to Algebra"
+    "group": "All",
+    "type": "P",
+    "location": "S.302",
+    "manual confirmation": "Yes"
+  }
+],
