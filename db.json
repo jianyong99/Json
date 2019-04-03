@@ -469,7 +469,7 @@
       "group": "1,2",
       "type": "L",
       "location": "S.212",
-      "manualConfirmation": "Yes"
+      "mConfirmation": "Yes"
     },
     {
       "date": "19-02-19",
@@ -479,7 +479,7 @@
       "group": "1,2",
       "type": "T",
       "location": "S.212",
-      "manualConfirmation": "No"
+      "mConfirmation": "No"
     },
     {
       "date": "20-02-19",
@@ -489,7 +489,7 @@
       "group": "All",
       "type": "L",
       "location": "LTS.1",
-      "manualConfirmation": "Yes"
+      "mConfirmation": "Yes"
     },
     {
       "date": "20-02-19",
@@ -499,7 +499,7 @@
       "group": "All",
       "type": "P",
       "location": "S.302",
-      "manualConfirmation": "Yes"
+      "mConfirmation": "Yes"
     }
     ]
 }
