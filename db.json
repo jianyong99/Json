@@ -459,10 +459,9 @@
       "gender":"female",
       "IsClass": true
     }
-    ]
-},
-"LEE XX": [
-  {
+    ],
+  "LEE XX": [
+    {
     "date": "19-02-19",
     "time": "9.00am-10.00am",
     "moduleCode": "EG1101",
@@ -471,8 +470,8 @@
     "type": "L",
     "location": "S.212",
     "manual confirmation": "Yes"
-  },
-  {
+   },
+   {
     "date": "19-02-19",
     "time": "1.00pm-2.00pm",
     "moduleCode": "EG1101",
@@ -481,8 +480,8 @@
     "type": "T",
     "location": "S.212",
     "manual confirmation": "No"
-  },
-  {
+   },
+   {
     "date": "20-02-19",
     "time": "10.00am-12.00am",
     "moduleCode": "EG1102",
@@ -491,8 +490,8 @@
     "type": "L",
     "location": "LTS.1",
     "manual confirmation": "Yes"
-  },
-  {
+   },
+   {
     "date": "20-02-19",
     "time": "3.00pm-5.00pm",
     "moduleCode": "EG1102",
@@ -501,6 +500,6 @@
     "type": "P",
     "location": "S.302",
     "manual confirmation": "Yes"
-  }
- ]
-}
+   }
+  ]
+},
