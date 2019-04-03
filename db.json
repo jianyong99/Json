@@ -490,6 +490,16 @@
     "type": "L",
     "location": "LTS.1",
     "manualconfirmation": "Yes"
+   },
+   {
+    "date": "20-02-19",
+    "time": "3.00pm-5.00pm",
+    "moduleCode": "EG1102",
+    "moduleName": "Introduction to Algebra",
+    "group": "All",
+    "type": "P",
+    "location": "S.302",
+    "manualconfirmation": "Yes"
    }
   ]
 },
