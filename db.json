@@ -465,15 +465,6 @@
       "type": "L",
       "location": "LTS.1",
       "mConfirmation": "Yes"
-    },
-    {
-      "date": "20-02-19",
-      "time": "3.00pm-5.00pm",
-      "moduleName and Code":"I.A (EG1102)",
-      "group": "All",
-      "type": "P",
-      "location": "S.302",
-      "mConfirmation": "Yes"
     }
-    ],
+    ]
 }
