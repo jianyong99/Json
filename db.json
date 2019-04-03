@@ -492,7 +492,7 @@
     "location": "LTS.1",
     "manual confirmation": "Yes"
   },
-   {
+  {
     "date": "20-02-19",
     "time": "3.00pm-5.00pm",
     "moduleCode": "EG1102",
@@ -502,5 +502,5 @@
     "location": "S.302",
     "manual confirmation": "Yes"
   }
-  ]
+ ]
 }
