@@ -438,8 +438,7 @@
       "week": "3"
     }
    ],
-  "Name": [
-    "LeeXX": [
+   "LeeXX": [
       {
       "date": "19-02-19",
       "time": "9.00am-10.00am",
@@ -476,26 +475,5 @@
       "location": "S.302",
       "mConfirmation": "Yes"
       }
-    ],
-    "TanXX": [
-      {
-      "date": "19-02-19",
-      "time": "9.00am-10.00am",
-      "moduleName and moduleCode": "I.E(EG1101)",
-      "group": "1,2",
-      "type": "L",
-      "location": "S.212",
-      "mConfirmation": "Yes"
-      },
-      {
-      "date": "19-02-19",
-      "time": "9.00am-10.00am",
-      "moduleName and moduleCode": "I.E(EG1101)",
-      "group": "1,2",
-      "type": "L",
-      "location": "S.212",
-      "mConfirmation": "Yes"
-      }
-     ]
     ]
 }
