@@ -102,7 +102,6 @@
     {
       "id": "LIAWSW",
       "time": "8am",
-      "wday":"monday",
       "week":"2",
       "day":"1",
       "moduleCode": "EG2012-E1",
@@ -115,7 +114,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"monday",
       "week":"2",
       "day":"1",
       "time": "8am",
@@ -129,7 +127,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"monday",
       "week":"2",
       "day":"1",
       "time": "12pm",
@@ -143,7 +140,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"tuesday",
       "week":"2",
       "day":"2",
       "time": "9am",
@@ -157,7 +153,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"tuesday",
       "week":"2",
       "day":"2",
       "time": "1pm",
@@ -171,7 +166,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"wednesday",
       "week":"2",
       "day":"3",
       "time": "10am",
@@ -185,7 +179,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"wednesday",
       "week":"2",
       "day":"3",
       "time": "12pm",
@@ -199,7 +192,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"thursday",
       "week":"2",
       "day":"4",
       "time": "9am",
@@ -213,7 +205,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"thursday",
       "week":"2",
       "day":"4",
       "time": "1pm",
@@ -227,7 +218,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"friday",
       "week":"2",
       "day":"5",
       "time": "3pm",
@@ -241,7 +231,6 @@
     },
     {
       "id": "LIAWSW",
-      "wday":"friday",
       "week":"2",
       "day":"5",
       "time": "5pm",
@@ -254,188 +243,12 @@
       "Absence":true
     }
   ],
-  "photo": [
-    {
-      "id": "LIAWSW",
-      "name":"Lee XX",
-      "uri":"photo1",
-      "photo":"https://picsum.photos/150/150/?image=381"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Tan XX",
-      "uri":"photo2",
-      "photo":"https://picsum.photos/150/150/?image=382"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Wong XX",
-      "uri":"photo3",
-      "photo":"https://picsum.photos/150/150/?image=383"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Lee XX",
-      "uri":"photo4",
-      "photo":"https://picsum.photos/150/150/?image=384"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Kong XX",
-      "uri":"photo5",
-      "photo":"https://picsum.photos/150/150/?image=385"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Chen XX",
-      "uri":"photo6",
-      "photo":"https://picsum.photos/150/150/?image=386"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Chen XX",
-      "uri":"photo7",
-      "photo":"https://picsum.photos/150/150/?image=387"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Tee XX",
-      "uri":"photo8",
-      "photo":"https://picsum.photos/150/150/?image=388"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Loh XX",
-      "uri":"photo9",
-      "photo":"https://picsum.photos/150/150/?image=389"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Li XX",
-      "uri":"photo10",
-      "photo":"https://picsum.photos/150/150/?image=390"
-    },
-    {
-      "id": "LIAWSW",
-      "name":"Song XX",
-      "uri":"photo11",
-      "photo":"https://picsum.photos/150/150/?image=391"
-    }
-  ],
   "calendar": [   
     {
       "id": "LIAWSW",
       "date": "2019-5-13",
       "day":"tuesday",
       "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-14",
-      "day":"tuesday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-15",
-      "day":"wednesday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-16",
-      "day":"thursday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-17",
-      "day":"friday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-18",
-      "day":"saturday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-19",
-      "day":"sunday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-20",
-      "day":"monday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-21",
-      "day":"tuesday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-22",
-      "day":"wednesday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-23",
-      "day":"thursday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-24",
-      "day":"friday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-25",
-      "day":"saturday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-26",
-      "day":"sunday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-27",
-      "day":"monday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-28",
-      "day":"tuesday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-29",
-      "day":"wednesday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-30",
-      "day":"thursday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-5-31",
-      "day":"friday",
-      "week": "3"
     }
    ],
    "LeeXX": [
@@ -475,5 +288,82 @@
       "location": "S.302",
       "absence": "Yes"
       }
+    ],
+    "Tan XX": [
+      {
+       "date": "13-05-19",
+       "time": "9.00am-10.00am",
+       "moduleName": "I.E(EG1101)",
+       "group": "1,2",
+       "type": "L",
+       "location": "S.212",
+       "absence": "No"
+      },
+      {
+       "date": "14-05-19",
+       "time": "13.00am-14.00am",
+       "moduleName": "I.E(EG1101)",
+       "group": "1,2",
+       "type": "T",
+       "location": "S.212",
+       "absence": "No"
+      },
+      {
+      "date": "15-05-19",
+      "time": "10.00am-12.00pm",
+      "moduleName": "I.A(EG1102)",
+      "group": "All",
+      "type": "L",
+      "location": "LTS.1",
+      "absence": "No"
+      },
+      {
+      "date": "16-05-19",
+      "time": "15.00pm-17.00pm",
+      "moduleName": "I.A(EG1102)",
+      "group": "All",
+      "type": "P",
+      "location": "S.302",
+      "absence": "No"
+      }
+    ],
+    "Wong XX": [
+       {
+       "date": "13-05-19",
+       "time": "9.00am-10.00am",
+       "moduleName": "I.E(EG1101)",
+       "group": "1,2",
+       "type": "L",
+       "location": "S.212",
+       "absence": "No"
+      },
+      {
+       "date": "14-05-19",
+       "time": "13.00am-14.00am",
+       "moduleName": "I.E(EG1101)",
+       "group": "1,2",
+       "type": "T",
+       "location": "S.212",
+       "absence": "No"
+      },
+      {
+      "date": "15-05-19",
+      "time": "10.00am-12.00pm",
+      "moduleName": "I.A(EG1102)",
+      "group": "All",
+      "type": "L",
+      "location": "LTS.1",
+      "absence": "No"
+      },
+      {
+      "date": "16-05-19",
+      "time": "15.00pm-17.00pm",
+      "moduleName": "I.A(EG1102)",
+      "group": "All",
+      "type": "P",
+      "location": "S.302",
+      "absence": "Yes"
+      }
     ]
+        
 }
