@@ -345,24 +345,6 @@
        "type": "T",
        "location": "S.212",
        "absence": "No"
-      },
-      {
-      "date": "15-05-19",
-      "time": "10.00am-12.00pm",
-      "moduleName": "I.A(EG1102)",
-      "group": "All",
-      "type": "L",
-      "location": "LTS.1",
-      "absence": "No"
-      },
-      {
-      "date": "16-05-19",
-      "time": "15.00pm-17.00pm",
-      "moduleName": "I.A(EG1102)",
-      "group": "All",
-      "type": "P",
-      "location": "S.302",
-      "absence": "No"
       }
     ]
 }
