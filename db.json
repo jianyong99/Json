@@ -326,25 +326,5 @@
       "location": "S.302",
       "absence": "No"
       }
-    ],
-    "ChenXX": [
-      {
-       "date": "13-05-19",
-       "time": "9.00am-10.00am",
-       "moduleName": "I.E(EG1101)",
-       "group": "1,2",
-       "type": "L",
-       "location": "S.212",
-       "absence": "No"
-      },
-      {
-       "date": "14-05-19",
-       "time": "13.00am-14.00am",
-       "moduleName": "I.E(EG1101)",
-       "group": "1,2",
-       "type": "T",
-       "location": "S.212",
-       "absence": "No"
-      }
     ]
 }
